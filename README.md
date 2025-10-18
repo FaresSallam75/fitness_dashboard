@@ -15,8 +15,6 @@ flowchart LR
   BLC --> STORAGE[Local Storage (Hive, SecureStorage)]
 ```
 
-
-
 ## Core Utilities
 
 Utilities that support UI styling, file handling, notifications, validation, routing, and dependency management.
