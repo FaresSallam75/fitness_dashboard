@@ -3,17 +3,17 @@
 This document provides a comprehensive overview of the **Fitness Dashboard** Flutter application. It covers core utilities, theming, business logic (Cubits/States), data models, repositories, networking, routing, services, and the presentation layer (screens & widgets). Diagrams illustrate the high-level architecture and data flow.  
 
 
-## Architecture Overview
 
-A simplified component diagram shows how UI, business logic, data access, networking, and local storage interact.
-
-```mermaid
-flowchart LR
-  UI[Presentation Layer] --> BLC[Business Logic (Cubit)]
-  BLC --> REPO[Repositories]
-  REPO --> NET[Networking (DioService)]
-  BLC --> STORAGE[Local Storage (Hive, SecureStorage)]
-```
+   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/screenshots/Screenshot (41).png" width="400" alt="Welcome Page">
+  <img src="assets/screenshots/Screenshot (35).png" width="400" alt="Welcome Page">
+  <img src="assets/screenshots/Screenshot (36).png" width="400" alt="Welcome Page">
+  <img src="assets/screenshots/Screenshot (37).png" width="400" alt="Welcome Page">
+  <img src="assets/screenshots/Screenshot (38).png" width="400" alt="Welcome Page">
+  <img src="assets/screenshots/Screenshot (39).png" width="400" alt="Welcome Page">
+  <img src="assets/screenshots/Screenshot (40).png" width="400" alt="Welcome Page">
+  </div>
+  
 
 ## Core Utilities
 
