@@ -16,7 +16,7 @@ flowchart LR
 ```
 
 
-    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="assets/screenshots/Screenshot (41).png" width="400" alt="Welcome Page">
   <img src="assets/screenshots/Screenshot (35).png" width="400" alt="Welcome Page">
   <img src="assets/screenshots/Screenshot (36).png" width="400" alt="Welcome Page">
@@ -24,8 +24,7 @@ flowchart LR
   <img src="assets/screenshots/Screenshot (38).png" width="400" alt="Welcome Page">
   <img src="assets/screenshots/Screenshot (39).png" width="400" alt="Welcome Page">
   <img src="assets/screenshots/Screenshot (40).png" width="400" alt="Welcome Page">
-
-</div>
+  </div>
   
 
 
