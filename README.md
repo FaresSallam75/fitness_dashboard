@@ -5,13 +5,13 @@ This document provides a comprehensive overview of the **Fitness Dashboard** Flu
 
 
    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="assets/screenshots/Screenshot (41).png" width="400" alt="Welcome Page">
-  <img src="assets/screenshots/Screenshot (35).png" width="400" alt="Welcome Page">
-  <img src="assets/screenshots/Screenshot (36).png" width="400" alt="Welcome Page">
-  <img src="assets/screenshots/Screenshot (37).png" width="400" alt="Welcome Page">
-  <img src="assets/screenshots/Screenshot (38).png" width="400" alt="Welcome Page">
-  <img src="assets/screenshots/Screenshot (39).png" width="400" alt="Welcome Page">
-  <img src="assets/screenshots/Screenshot (40).png" width="400" alt="Welcome Page">
+  <img src="assets/screenshots/Screenshot (41).png" width="300">
+  <img src="assets/screenshots/Screenshot (35).png" width="3000">
+  <img src="assets/screenshots/Screenshot (36).png" width="300">
+  <img src="assets/screenshots/Screenshot (37).png" width="300">
+  <img src="assets/screenshots/Screenshot (38).png" width="300">
+  <img src="assets/screenshots/Screenshot (39).png" width="300">
+  <img src="assets/screenshots/Screenshot (40).png" width="300">
   </div>
   
 
